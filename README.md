@@ -146,5 +146,14 @@ If you’d like to contribute:
 4. Push and open a PR 🚀
 
 ---
+# 👨‍💻 Credits
+
+**Designed by:**  
+🌿 [Shubham Joshi](https://github.com/WhiteDevil1247)  
+💻 *Backend Developer | Tech Enthusiast | Innovator*
+
+> Special thanks to all contributors and supporters who helped in making **Green Tech** a reality.  
+
+---
 
 Green Tech</b></p>
