@@ -1,6 +1,6 @@
 <!-- 🌿 Green Tech Logo -->
 <p align="center">
-  <img src="assets/logo.png" alt="Green Tech Logo" width="200"/>
+  <img src="smart waste management system/assets/logo.png" alt="Green Tech Logo" width="200"/>
 </p>
 
 <h1 align="center">🌿 Green Tech — Smart Waste Collection Routing System</h1>
