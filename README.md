@@ -52,8 +52,8 @@ The system uses an **AI route optimization algorithm** to calculate the most eff
 
 ## 🖥️ UI Preview
 
-### 🔐 Login Page
-<img src="Screenshot 2025-10-21 182718.png">
+### 🔐 Sign In Page
+<img src="Screenshot 2025-10-21 182805.png">
 
 ### 🌐 Home Page
 <img src="Screenshot 2025-10-21 182718.png">
