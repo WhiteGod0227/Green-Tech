@@ -53,16 +53,16 @@ The system uses an **AI route optimization algorithm** to calculate the most eff
 ## 🖥️ UI Preview
 
 ### 🔐 Login Page
-![About Screenshot](assets/about.png)
+<img src="Screenshot 2025-10-21 182718.png">
 
 ### 🌐 Home Page
-!<img src="Screenshot 2025-10-21 182718.png">
+<img src="Screenshot 2025-10-21 182718.png">
 
 ### 📊 About 
-![Dashboard Screenshot](assets/dashboard.png)
+<img src="Screenshot 2025-10-21 182718.png">
 
 ### 📞 Contact Page
-![About Screenshot](assets/about.png)
+<img src="Screenshot 2025-10-21 182718.png">
 
 *(Place your screenshots in an `/assets` folder and replace these links.)*
 
