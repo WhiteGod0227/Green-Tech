@@ -147,4 +147,4 @@ If you’d like to contribute:
 
 ---
 
-reen Tech</b></p>
+Green Tech</b></p>
