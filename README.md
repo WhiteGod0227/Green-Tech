@@ -147,13 +147,4 @@ If you’d like to contribute:
 
 ---
 
-## 📧 Contact
-
-📍 **Team Green Tech**  
-🌐 [Your Website or Portfolio Link]  
-✉️ [Your Email or Club Contact Page]  
-📷 Instagram: [@yourhandle] | 💼 LinkedIn: [Your Page]
-
----
-
-<p align="center">Made with 💚 by <b>Team Green Tech</b></p>
+reen Tech</b></p>
